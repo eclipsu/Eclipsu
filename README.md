@@ -1,29 +1,26 @@
-# Eclipsu desu~
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Hi, I am [Eclipsu]() passionate about stuff like programming and computers. 🧑‍💻
+
+* 🧑‍💻 Currently learning python and Cpp
+* 💻 Learning VIM, GIMP and BASH as Linux.
+* 📖 Preping for my finals (9 class)
+  
+
+**Languages and Tools:**  
+<code><img align="left" height="20" alt = "Os" src="https://raw.githubusercontent.com/Eclipsu/Eclipsu/d993da6d73eafc27a0d55b4534c893f0a0fe912f/Images/Linux.svg"></code> 
+<code><img align="left" height="20" alt = "Terminal" src="https://raw.githubusercontent.com/Eclipsu/Eclipsu/d993da6d73eafc27a0d55b4534c893f0a0fe912f/Images/Bash.svg"></code>
+<code><img align="left" height="20" alt = "vcs" src="https://raw.githubusercontent.com/Eclipsu/Eclipsu/d993da6d73eafc27a0d55b4534c893f0a0fe912f/Images/Git.svg"></code>
+<code><img align="left" height="20" alt = "IDE" src="https://raw.githubusercontent.com/Eclipsu/Eclipsu/master/Images/VSCode.png"></code>
+<code><img align = "left" height = "20" alt = "Web" src = "https://raw.githubusercontent.com/Eclipsu/Eclipsu/master/Images/firefox.png"></img></code>
+<code><img align = "left" height = "20" alt = "Photoshop" src = "https://raw.githubusercontent.com/Eclipsu/Eclipsu/master/Images/photoshop.png"></img></code>
+<code><img align="left" height="20" alt = "Cpp" src="https://raw.githubusercontent.com/Eclipsu/Eclipsu/d993da6d73eafc27a0d55b4534c893f0a0fe912f/Images/c%2B%2B.svg"></code>
+<code><img align="left" height="20" alt = "python" src="https://raw.githubusercontent.com/Eclipsu/Eclipsu/d993da6d73eafc27a0d55b4534c893f0a0fe912f/Images/Python.svg"></code>
 
 
-## Languages
 
-<!-- C++ -->
-<a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/c%2B%2B.svg" alt="C++" width="40" height="40"/> </a>
 
-<!-- Python -->
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/Python.svg" alt="Python" width="40" height="40"/> </a>
 
-## Tools
-<!-- Terminal -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/Bash.svg" alt="BASH" width="40" height="40"/> </a>
 
-<!-- OS -->
-<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/Linux.svg" alt="linux" width="40" height="40"/> </a>
 
-<!-- Text editor -->
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/VSCode.png" alt="vscode" width="40" height="40"/> </a>
 
-<!-- VCS -->
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/Git.svg" alt="Git" width="40" height="40"/> </a>
-
-<!-- Image manupilation -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/photoshop.png" alt="Photoshop" width="40" height="40"/> </a>
-
-<!-- browser -->
-<a href="https://www.mozilla.org/" target="_blank"> <img src="https://github.com/Eclipsu/Eclipsu/blob/master/Images/firefox.png" alt="Firefox" width="34.0625" height="40"/> </a>

@@ -2,8 +2,8 @@
 
 Hi, I am [Eclipsu]() passionate about stuff like programming and computers. 🧑‍💻
 
-* 🧑‍💻 Currently learning Python Html Css ElectronJS 
-* 💻 Learning Vim Linux.
+* 🧑‍💻 Currently learning Python Html Css Js 
+* 💻 Learning Frontend Development.
 * 📖 Preping for my finals (9 class)
   
 

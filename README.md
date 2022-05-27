@@ -2,9 +2,8 @@
 
 ## I'm a Softwere Developer
 
-- 🌱 I’m learning MERN technology
-- 🤍 Javascript (NodeJS)
-- 📖 Intrests: Learning, Fincance, Food and of course, Programming
+- 🌱 I’m learning MERN technology 
+- 📖 Student
 
 
 [![Website](https://img.shields.io/website?label=meroamdani.xyz&style=for-the-badge&url=https://meroamdani.xyz/)](https://meroamdani.xyz/)

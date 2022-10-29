@@ -5,5 +5,4 @@
 - 🌱 I’m learning MERN technology 
 - 📖 Student
 
-
-[![Website](https://img.shields.io/website?label=meroamdani.xyz&style=for-the-badge&url=https://meroamdani.xyz/)](https://meroamdani.xyz/)
+[![Website](https://img.shields.io/website?label=https://rajeevshrestha.vercel.app/&style=for-the-badge&url=https://rajeevshrestha.vercel.app/)](https://rajeevshrestha.vercel.app/)

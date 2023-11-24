@@ -7,7 +7,7 @@ Hello, my name is Rajeev Shrestha. I am a student with aspirations to become a f
 ## Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maybeomuamua/)
-![Discord](https://img.shields.io/badge/Eclipsu%237925-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/@eclipsu%23-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 ## Skills
 

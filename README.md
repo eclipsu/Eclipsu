@@ -146,7 +146,7 @@ I build products: schema, backend, frontend, and deployment. I care about system
   <tr>
     <td width="50%" valign="top" style="border:1px solid #30363d;padding:12px;">
       <a href="#" target="_blank">
-        <img src="Images/projects/kothakhali-preview.png" alt="Kothakhali preview" width="100%" style="display:block;"/>
+        <img src="Images/projects/kothakhali-preview.jpg" alt="Kothakhali preview" width="100%" style="display:block;"/>
       </a>
       <h3>Kothakhali</h3>
       <p>
@@ -170,13 +170,11 @@ I build products: schema, backend, frontend, and deployment. I care about system
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d;padding:12px;">
       <a href="https://github.com/eclipsu/NeetcodeSRS" target="_blank">
-        <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/run_on_submit_example.png" alt="NeetcodeSRS rate-after-submit on NeetCode" width="100%" style="display:block;"/>
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/run_on_submit_example.png" alt="NeetcodeSRS rate-after-submit on NeetCode" width="48%" style="display:inline-block;vertical-align:top;"/>
+          <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/mainScreen.png" alt="NeetcodeSRS review queue" width="48%" style="display:inline-block;vertical-align:top;"/>
+        </p>
       </a>
-      <p align="center" style="margin-top:8px;">
-        <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/leetcode_example.png" alt="NeetcodeSRS on LeetCode" width="48%" style="display:inline-block;"/>
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/mainScreen.png" alt="NeetcodeSRS review queue" width="48%" style="display:inline-block;"/>
-      </p>
       <h3>NeetcodeSRS</h3>
       <p>
         Chrome extension for coding-interview practice with

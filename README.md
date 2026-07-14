@@ -106,9 +106,7 @@ I build products: schema, backend, frontend, and deployment. I care about system
       </p>
       <p>
         <strong>Metrics:</strong>
-        <img src="https://img.shields.io/badge/23_Users-FFD93D?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/319_Sessions-8B7FF6?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/121%2B_Focus_Hrs-8B7FF6?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/40_Users-FFD93D?style=flat-square&labelColor=0D1117"/>
       </p>
       <p>
         <strong>Highlights</strong>
@@ -148,16 +146,15 @@ I build products: schema, backend, frontend, and deployment. I care about system
       <a href="#" target="_blank">
         <img src="Images/projects/kothakhali-preview.jpg" alt="Kothakhali preview" width="100%" style="display:block;"/>
       </a>
-      <h3>Kothakhali</h3>
+      <h3>Kothakhali <img src="https://img.shields.io/badge/🚧_WIP-FFB020?style=flat-square&labelColor=0D1117" alt="Work in progress"/></h3>
       <p>
         A rental marketplace for Kathmandu connecting room seekers and landlords.
         Hybrid PostgreSQL full-text search, ML-based photo moderation, and a
-        web-scraped seed dataset of real listings.
+        web-scraped seed dataset of real listings. Still cooking, not live yet.
       </p>
       <ul>
-        <li>Hybrid <code>tsvector</code> + <code>ts_rank</code> + ILIKE search across 5 location fields for locality-based discovery</li>
         <li>NSFW image moderation gate (TensorFlow.js + NSFWJS) rejecting flagged uploads before storage</li>
-        <li>Web scraping pipeline seeding the MVP with 1,300+ real listings from Hamrobazaar</li>
+        <li>Web scraping pipeline seeding the MVP with 1,300+ real listings from Marketplace</li>
         <li>Redis caching with versioned keys to cut repeated DB hits on search/detail pages</li>
       </ul>
       <p>

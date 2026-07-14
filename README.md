@@ -139,7 +139,7 @@ I build products: schema, backend, frontend, and deployment. I care about system
 <br/>
 
 <!-- ============================================================ -->
-<!--  PROJECTS ROW: KOTHAKHALI + GITAPPLY                         -->
+<!--  PROJECTS ROW: KOTHAKHALI + NEETCODESRS                      -->
 <!-- ============================================================ -->
 
 <table width="100%" style="border:1px solid #30363d;border-collapse:collapse;">
@@ -169,29 +169,40 @@ I build products: schema, backend, frontend, and deployment. I care about system
       </p>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d;padding:12px;">
-      <h3>GitApply</h3>
+      <a href="https://github.com/eclipsu/NeetcodeSRS" target="_blank">
+        <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/run_on_submit_example.png" alt="NeetcodeSRS rate-after-submit on NeetCode" width="100%" style="display:block;"/>
+      </a>
+      <p align="center" style="margin-top:8px;">
+        <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/leetcode_example.png" alt="NeetcodeSRS on LeetCode" width="48%" style="display:inline-block;"/>
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/eclipsu/NeetcodeSRS/main/assets/screenshots/mainScreen.png" alt="NeetcodeSRS review queue" width="48%" style="display:inline-block;"/>
+      </p>
+      <h3>NeetcodeSRS</h3>
       <p>
-        A full-stack SaaS app that generates ATS-optimized resumes from GitHub
-        activity, using the Gemini API for AI-powered content generation.
+        Chrome extension for coding-interview practice with
+        <a href="https://github.com/open-spaced-repetition/ts-fsrs" target="_blank">FSRS</a>
+        spaced repetition. Rate problems right after you get
+        <strong>Accepted</strong> on NeetCode or LeetCode — reviews are scheduled for you.
       </p>
       <p>
-        <strong>Metrics:</strong>
-        <img src="https://img.shields.io/badge/15_Resumes_Generated-FFD93D?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/67%25_ATS_Pass_Rate-8B7FF6?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/3_min_Avg_Time_to_Resume-8B7FF6?style=flat-square&labelColor=0D1117"/>
+        <strong>Highlights</strong>
       </p>
       <ul>
-        <li>React frontend + Node.js/Express REST API backend</li>
-        <li>Gemini API integration for resume content generation, with validation on AI output</li>
-        <li>GitHub OAuth for pulling real activity data</li>
-        <li>CI/CD pipeline: Vercel frontend + Dockerized EC2 backend</li>
+        <li>Post-Accepted rating prompt on <strong>NeetCode</strong> and <strong>LeetCode</strong> (Submit / Ctrl+Enter)</li>
+        <li>Daily review queue with Again / Hard / Good / Easy + streaks and stats</li>
+        <li>Optional private sync via your own GitHub Gist</li>
+        <li>Install from GitHub Releases zip (Load unpacked) — see the repo README</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FSRS-8B7FF6?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/WXT-FFD93D?style=flat-square&labelColor=0D1117"/>
+      </p>
+      <p>
+        <a href="https://github.com/eclipsu/NeetcodeSRS" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+        <a href="https://github.com/eclipsu/NeetcodeSRS/releases" target="_blank"><img src="https://img.shields.io/badge/Releases-Zip-FFD93D?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Releases"/></a>
       </p>
     </td>
   </tr>
